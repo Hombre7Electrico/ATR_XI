@@ -1,0 +1,8 @@
+main.c:104:5:main	16	static
+main.c:177:6:SystemClock_Config	88	static
+main.c:220:6:Placa_Corriendo	8	static
+main.c:231:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:241:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:268:6:PLAY_PAUSE_REC	16	static
+main.c:405:9:FUNCION_BOTON	16	static
+main.c:458:6:Error_Handler	4	static
